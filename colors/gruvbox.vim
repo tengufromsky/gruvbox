@@ -682,7 +682,6 @@ endif
 " Plugin specific -------------------------------------------------------------
 " EasyMotion: {{{
 
-hi! link EasyMotionTarget Search
 hi! link EasyMotionShade Comment
 
 " }}}
